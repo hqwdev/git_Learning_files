@@ -1,0 +1,7 @@
+git reset --hard HEAD^：回退到commit之前的上一个版本
+
+git log:查看提交日志
+
+撤销暂存区的修改：git reset HEAD 
+
+撤销工作区的修改：git checkout - 
